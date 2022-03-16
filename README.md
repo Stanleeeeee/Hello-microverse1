@@ -10,9 +10,6 @@
 - HTML
 - CSS
 
-
-To get a local copy up and running follow these simple example steps.
-
 ### Prerequisites
  - You need a VScode 
  - A web browser
@@ -24,10 +21,10 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Ezeoke Stanley Ifeanyi**
 
-- GitHub: [@githubhandle](https://github.com/stanleeeeee)
-- Twitter: [@twitterhandle](https://twitter.com/Stanmega89)
+- GitHub: [@stanleeeee](https://github.com/stanleeeeee)
+- Twitter: [@Stanmega89](https://twitter.com/Stanmega89)
 
 ## 🤝 Contributing
 
